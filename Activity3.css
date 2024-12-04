@@ -1,0 +1,44 @@
+form{
+  background-color: rgb(6, 247, 6);
+  width: 250px;
+  margin: auto;
+  color: #000000;
+  text-align: center;
+  margin: 240px;
+  margin-left: 500px;
+  
+  
+}
+
+body{
+  background-color: rgb(77, 141, 113);
+}
+
+#pogi{
+  margin-right: 200px;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+#poge{
+  margin-right: 200px;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+#pugi{
+  font-size: 15px;
+  width: 70px;
+}
+
+
+#haha{
+  width: 200px;
+}
+
+#hahaha{
+  width: 200px;
+}
+

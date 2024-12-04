@@ -1,0 +1,22 @@
+table{
+    text-align: center;
+    background-color: aqua;
+    border-color: rgb(50, 194, 194);
+    margin: auto;
+    margin-top: 100px;
+    border-style: dashed;
+    width: 700px;
+    height: 400px;
+}
+
+td{
+    border-style: dashed;
+}
+
+th{
+    border-style: dashed;
+}
+
+body{
+    background-color: green;
+}
